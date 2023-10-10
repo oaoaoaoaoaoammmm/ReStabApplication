@@ -1,0 +1,14 @@
+{
+  "properties": [
+    {
+      "name": "props.work-day.page-size",
+      "type": "java.lang.Integer",
+      "description": "Page size for work days."
+    },
+    {
+      "name": "props.materials.page-size",
+      "type": "java.lang.Integer",
+      "description": "Page size for materials."
+    }
+  ]
+}
